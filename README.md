@@ -4,6 +4,7 @@ This guide will install and configure your personal AI on your computer!
 First you need to install the necessary components: 
 1. Docker https://www.docker.com/products/docker-desktop/
 2. Ollama https://ollama.com/
+
 Dachshund, if you've installed this, then you're doing great!
 Add Docker Desktop to the PATH and almost everything is ready, it remains to choose the model of your assistant!
 when you install ollama, you will have a console, write
